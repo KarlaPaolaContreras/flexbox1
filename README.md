@@ -8,12 +8,9 @@
 
 4 enlace de demostración
 # 1. Introducción
-Permiten adaptar el contenido de la web a los diferentes tipos de pantallas (diseño responsive) y mejorando, por tanto, la experiencia de usuario.
-
+Es una herramienta versátil que se utiliza ampliamente en la industria del desarrollo web. Al proporcionar una base sólida de estilos, componentes y funcionalidades
 # 2. Descripción
-En este proyecto me enfoqué en compaginar elementos en filas y columnas
-* Header: Sección que involucra la foto de perfil, íconos y el menú con hipervínculos.
-* Main: Sección del contenedor para los elementos centrales de la página: logo, barra de búsquedad, botones, íconos, etc.
+Nos enfocamos en darle un aspecto visual para mejorar la experiencia del usuario
 # 3. Objetivo
 Aprender a usar el sistema de compaginación con elementos flexbox para crear compaginaciones web. 
 # 4. Enlace de demostración
