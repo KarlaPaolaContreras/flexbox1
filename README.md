@@ -8,7 +8,7 @@
 
 4 enlace de demostración
 # 1. Introducción
-Método de diseño de página unidimensional para compaginar elementos en filas o columnas. Los elementos de contenido se ensanchan para rellenar el espacio adicional y se encogen para caber en espacios más pequeños.
+Permiten adaptar el contenido de la web a los diferentes tipos de pantallas (diseño responsive) y mejorando, por tanto, la experiencia de usuario.
 
 # 2. Descripción
 En este proyecto me enfoqué en compaginar elementos en filas y columnas
