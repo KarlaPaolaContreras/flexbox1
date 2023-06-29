@@ -14,5 +14,4 @@ Nos enfocamos en darle un aspecto visual para mejorar la experiencia del usuario
 # 3. Objetivo
 Aprender a usar el sistema de compaginación con elementos flexbox para crear compaginaciones web. 
 # 4. Enlace de demostración
-Aquí puedes visualizar mi proyecto terminado: http://127.0.0.1:5500/flexbox1/index.html
-
+Aquí puedes visualizar mi proyecto terminado: https://helpful-frangollo-7cd091.netlify.app/
